@@ -1,5 +1,5 @@
 /bin/
-.gitattributes
-.gitignore 
-.project
-.classpath
+/.gitattributes
+/.gitignore 
+/.project
+/.classpath
